@@ -7,6 +7,7 @@ img{
 body{
   background-color:#e5c39b;
   border: 2px;
+  padding: 10px;
 }
 h1{
   text-align:center;
@@ -15,4 +16,7 @@ nav>ul>li{
   display: inline-block;
   padding-right: 30px;
   text-align:left;
+}
+span{
+  color:blue;
 }
