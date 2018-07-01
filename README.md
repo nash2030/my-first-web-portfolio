@@ -1,6 +1,7 @@
 my-first-web-portfolio
 Nathan Ongoya Momanyi
 This site is all about me and the things that I focus to pursue.
+The link to my project is "https://github.com/nash2030/my-first-web-portfolio"
 Copyright (c) [2018] [Nathan Ongoya]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
