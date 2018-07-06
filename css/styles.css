@@ -20,3 +20,16 @@ nav>ul>li{
 span{
   color:blue;
 }
+@media screen and (min-width: 500px) {
+  img{
+    height:50%;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+  }
+  body{
+    background-color:#e5c39b;
+    border: 2px;
+    padding: 10px;
+  }
+}
