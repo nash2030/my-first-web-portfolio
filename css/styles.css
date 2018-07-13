@@ -1,13 +1,24 @@
 img{
-  height:50%;
-  margin-left:auto;
-  margin-right:auto;
   display: block;
+  height: 30%;
+    width: 30%;
+    border-radius: 50%;
+    overflow: hidden;
+    vertical-align: middle;
+    box-sizing: border-box;
+    line-height: 1.5em;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 body{
-  background-color:#e5c39b;
+  background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/10/logos-520x196.jpg");
+  background-color:#f3f2e8;
+  background-size: cover;
+  background-color:#f3f2e8;
   border: 2px;
   padding: 10px;
+  color:black;
+  text-align: left;
+  vertical-align: middle;
 }
 h1{
   text-align:center;
@@ -22,14 +33,42 @@ span{
 }
 @media screen and (min-width: 500px) {
   img{
-    height:50%;
-    margin-left:auto;
-    margin-right:auto;
     display: block;
+    height: 20%;
+      width: 20%;
+      border-radius: 50%;
+      overflow: hidden;
+      vertical-align: middle;
+      box-sizing: border-box;
+      line-height: 1.5em;
+      -webkit-tap-highlight-color: rgba(0,0,0,0);
   }
   body{
-    background-color:#e5c39b;
+    background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/10/logos-520x196.jpg");
+    background-color:#f3f2e8;
+    background-size: cover;
     border: 2px;
     padding: 10px;
+    color:black;
+    text-align: left;
+    vertical-align: middle;
   }
+}
+#homepage li{
+  margin: 0;
+  padding: 8px;
+  background-color: #333;
+}
+#homepage li a{
+  color:#fff;
+  padding-left: 5px;
+    line-height: 120%;
+    padding-top: 8px;
+    padding-bottom: 3px;
+}
+#homepage p {
+  text-align: center;
+}
+#homepage {
+  padding-bottom: 30px;
 }
