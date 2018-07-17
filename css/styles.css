@@ -70,3 +70,8 @@ span{
 #homepage {
   padding-bottom: 30px;
 }
+#top{
+  background-color: #fff;
+  height: 50px;
+  border-radius: 1px;
+}
