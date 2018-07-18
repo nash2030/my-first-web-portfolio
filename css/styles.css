@@ -51,3 +51,10 @@ span{
 #homepage {
   padding-bottom: 30px;
 }
+.landingpage {
+    background-image: url("http://img.youtube.com/vi/hPCotoawhk0/maxresdefault.jpg");
+    padding-top:20px;
+}
+.myhead{
+float:right;
+}
