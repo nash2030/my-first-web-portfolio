@@ -31,26 +31,7 @@ span{
   color:blue;
 }
 @media screen and (min-width: 500px) {
-  img{
-    display: block;
-    height: 21%;
-      width: 21%;
-      border-radius: 50%;
-      overflow: hidden;
-      vertical-align: middle;
-      box-sizing: border-box;
-      line-height: 1.5em;
-      -webkit-tap-highlight-color: rgba(0,0,0,0);
-  }
-  body{
-    background-image: url("https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2011/10/logos-520x196.jpg");
-    background-size: cover;
-    border: 2px;
-    padding: 10px;
-    color:black;
-    text-align: left;
-    vertical-align: middle;
-  }
+
 }
 #homepage li{
   margin: 0;
@@ -69,9 +50,4 @@ span{
 }
 #homepage {
   padding-bottom: 30px;
-}
-#top{
-  background-color: #fff;
-  height: 50px;
-  border-radius: opx;
 }
