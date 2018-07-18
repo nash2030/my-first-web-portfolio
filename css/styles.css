@@ -3,9 +3,6 @@ img{
   height: 20%;
     width: 20%;
     border-radius: 50%;
-    overflow: hidden;
-    box-sizing: border-box;
-    line-height: 1.5em;
 
 }
 body{
@@ -56,14 +53,17 @@ span{
     display: table;
     box-sizing: border-box;
     font-weight: 500;
-    padding-top: 80px;
-    padding-bottom: 160px;
+    padding-top: 140px;
+    padding-bottom: 180px;
 }
 .myhead{
 float:right;
+margin-right: 170px;
 }
 .graphic p{
 font-family: 'Italianno', cursive;
-font-size:35px;
+font-size:43px;
 text-align:center;
+padding-left: 200px;
+padding-top: 40px;
 }
