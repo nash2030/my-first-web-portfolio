@@ -90,3 +90,13 @@ button{
 #resume img{
   display: inline;
 }
+#about{
+  text-align: center;
+}
+section{
+  text-align: left;
+  display: block;
+}
+#job{
+  text-align: center;
+}
