@@ -81,3 +81,6 @@ button{
   left:40%;
   font-size: 23px;
 }
+#land img{
+  float: right;
+}
