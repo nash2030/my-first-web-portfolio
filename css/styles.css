@@ -84,3 +84,6 @@ button{
 #land img{
   float: right;
 }
+#background img{
+  float: left;
+}
