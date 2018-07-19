@@ -87,3 +87,6 @@ button{
 #background img{
   float: left;
 }
+#resume img{
+  display: inline;
+}
