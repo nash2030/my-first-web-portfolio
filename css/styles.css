@@ -85,7 +85,7 @@ button{
   float: right;
 }
 #background img{
-  float: left;
+  float: right;
 }
 #resume img{
   display: inline;
@@ -98,5 +98,15 @@ section{
   display: block;
 }
 #job{
-  text-align: center;
+  text-align: left;
+}
+.column{
+  float: left;
+  padding: 5px;
+}
+#resume{
+  margin-top: 5px;
+}
+#contacts{
+  background-color: black;
 }
