@@ -59,7 +59,12 @@ span{
 }
 .myhead{
 float:right;
-margin-right: 170px;
+margin-right: 250px;
+border-radius: 50%;
+height: 20%;
+width: 20%;
+display: block;
+
 }
 .graphic p{
 font-family: 'Italianno', cursive;
@@ -67,11 +72,12 @@ font-size:43px;
 text-align:center;
 padding-left: 200px;
 padding-top: 40px;
+margin-left: 60px;
 }
 button{
   font-family: 'Niconne', cursive;
   position: absolute;
-  top: 63%;
+  top: 68%;
   left:40%;
   font-size: 23px;
 }
