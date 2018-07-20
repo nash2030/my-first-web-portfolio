@@ -100,6 +100,7 @@ button{
 #resume img{
   display: inline;
   padding: 35px;
+  padding-bottom: 30px;
 
 }
 #resume li {
@@ -125,7 +126,7 @@ section{
 }
 .column{
   float: left;
-  padding:
+  margin-bottom: 150px;
 }
 #resume{
   margin-top: 0px;
@@ -134,6 +135,7 @@ section{
 #contacts{
   background-color: black;
   margin-top: 250px;
+
 }
 #about{
   padding: 40px;
