@@ -37,14 +37,14 @@ span{
 }
 
 #homepage {
-  padding-bottom: 30px;
-  background-image: url("..images/developers.jpg");
+
+  background-image: url("../images/developers.jpg");
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
   background-size: cover;
   padding-top: 280px;
-  padding-bottom: 300px;
+  padding-bottom: 330px
 }
 .landingpage {
     background-image: url("../images/grahics.jpg");
