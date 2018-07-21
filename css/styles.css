@@ -8,7 +8,6 @@ body{
   border: 2px;
   color:black;
   text-align: left;
-  font-size: 20px;
 }
 h1{
   text-align:center;
@@ -132,12 +131,14 @@ section{
   margin-bottom: 150px;
 }
 #resume{
-  margin-top: 0px;
+  margin-bottom: 350px;
+  margin-top: 70px;
 
 }
 #contacts{
   background-color: black;
   margin-top: 250px;
+  padding-bottom: 300px;
 
 }
 #about{
