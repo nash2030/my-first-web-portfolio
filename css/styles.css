@@ -47,7 +47,8 @@ span{
   padding-bottom: 300px;
 }
 .landingpage {
-    background-image: url("http://img.youtube.com/vi/hPCotoawhk0/maxresdefault.jpg");
+    background-image: url("../images/grahics.jpg");
+    background-size: cover;
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
