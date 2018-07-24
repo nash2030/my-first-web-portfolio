@@ -133,10 +133,9 @@ section{
   padding-bottom: 80px;
   color: #fff;
   display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 #about{
   padding: 40px;
@@ -154,5 +153,4 @@ h3{
 }
 .heading{
   text-align: center;
-
 }
