@@ -12,4 +12,4 @@
   *Then git clone using this link *<https://github.com/nash2030/my-first-web-portfolio.git>*
 
 This project is under the [MIT](https://en.wikipedia.org/wiki/MIT_License)license
-### Copyright (c) [2018] [Nathan Ongoya
+### Copyright (c) [2018] Nathan Ongoya
