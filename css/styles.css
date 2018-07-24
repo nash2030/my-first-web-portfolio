@@ -68,7 +68,7 @@ span{
 button{
   font-family: 'Niconne', cursive;
   position: absolute;
-  top: 58%;
+  top: 48%;
   left:40%;
   font-size: 23px;
 }
@@ -150,7 +150,4 @@ h3{
 }
 .facebook{
   padding-left: 0px;
-}
-.heading{
-  text-align: center;
 }
